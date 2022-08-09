@@ -2,6 +2,9 @@
 .white{
     color: white;
 }
+.crem{
+    background-color: whitesmoke;
+}
 .grn{
     background-color: green;
     padding: 3px;
@@ -10,9 +13,8 @@
     color: white;
     border-radius: 5px;
 }
-.crem{
-    background-color:blue);
-}
+
+
 .cck{
     accent-color: rgb(40, 136, 42);
 }
@@ -66,4 +68,16 @@ ul li{
 }
 img {
     border-radius: 12.5px;
+}
+.newdoc{
+    display: flex;
+}
+.grow1{
+    flex-grow: 1;
+}
+.fnewdoc button{
+    border-radius: 8px;
+    background-color: green;
+    border: none;
+    color: white;
 }
