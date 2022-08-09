@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(174, 99, 24);
+}
+.white{
+    color: white;
+}
+.grn{
+    background-color: green;
+    padding: 3px;
+    border: none;
+    font-size: small;
+    color: white;
+    border-radius: 5px;
+}
+.cck{
+    accent-color: rgb(40, 136, 42);
+}
+.red{
+    background-color: red;
+    padding: 3px;
+    border: none;
+    font-size: small;
+    color: white;
+    border-radius: 5px;
+}
+.containerflex{
+    display: flex;
+}
+.flexitem{
+    margin: 10px;
+}
+#pagination1{
+justify-content: center;
+display: flex;
+}
+.ggrey{
+    background-color: rgb(197, 190, 190);
+}
+ul li{
+    list-style: none;
+}
+.f2{
+    width: 919.65px;
+}
+#nnn{
+    padding-left: 12px;
+    margin-top: 10px;
+}
