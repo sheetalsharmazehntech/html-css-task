@@ -1,6 +1,4 @@
-body{
-    background-color: rgb(174, 99, 24);
-}
+
 .white{
     color: white;
 }
@@ -11,6 +9,9 @@ body{
     font-size: small;
     color: white;
     border-radius: 5px;
+}
+.crem{
+    background-color:blue);
 }
 .cck{
     accent-color: rgb(40, 136, 42);
@@ -26,6 +27,10 @@ body{
 .containerflex{
     display: flex;
 }
+.pdmd{
+    padding: 10px;
+    margin: 10px ;
+}
 .flexitem{
     margin: 10px;
 }
@@ -33,9 +38,8 @@ body{
 justify-content: center;
 display: flex;
 }
-.ggrey{
-    background-color: rgb(197, 190, 190);
-}
+
+
 ul li{
     list-style: none;
 }
