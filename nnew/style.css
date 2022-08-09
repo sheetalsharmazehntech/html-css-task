@@ -46,3 +46,20 @@ ul li{
     padding-left: 12px;
     margin-top: 10px;
 }
+.profile{
+    display: flex;
+    color: azure;
+}
+.grow{
+    flex-grow: 1;
+    color: azure;
+    
+}
+#prf {
+
+    padding-right: 20px;
+   
+}
+img {
+    border-radius: 12.5px;
+}
